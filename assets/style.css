@@ -412,4 +412,102 @@ margin-top: -270px;
    font-family: "Montserrat";
     
 }
+.grass-img{
+   margin-left: 100px;
+   padding-top: 100px;
+}
+.textgrass{
+        margin-left: 50px;
+        margin-top: 600px;
+        margin-bottom: 70px;
+        h2{
+            font-family: "Cormorant";
+            margin-left: 750px;
+            font-size: 40px;
+            
+        }
+        h5{
+            font-family: "Montserrat";  
+            font-size: 20px;
+            font-weight: 400;
+            color: rgba(33, 33, 33, 1);
+            width: 550px;
+            margin-left: 750px;
+            line-height: 27px;
+            
+        }
+        p{
+            font-family: "Montserrat";  
+            font-size: 20px;
+            font-weight: 400;
+            color: rgba(33, 33, 33, 1);
+            width: 500px;
+            height: 155px;
+            margin-left: 750px;
+            line-height: 27px;
+        }
+        h6{
+            font-family: "Montserrat";  
+            font-size: 20px;
+            font-weight: 400;
+            color: rgba(33, 33, 33, 1);
+            width: 400px;
+            height: 100px;
+            margin-left: 750px;
+            line-height: 27px;  
+        }
+        h4{
+            font-family: "Montserrat";  
+            font-size: 20px;
+            font-weight: 400;
+            color: rgba(33, 33, 33, 1);
+            width: 550px;
+            height: 155px;
+            margin-left: 750px;
+            line-height: 27px;
+        }
+        h3{
+            font-family: "Montserrat";  
+            font-size: 20px;
+            font-weight: 400;
+            color: rgba(33, 33, 33, 1);
+            width: 550px;
+            height: 155px;
+            margin-left: 750px;
+            line-height: 27px;
+        }
+    }
+    .more{
+        font-family: "Montserrat";
+        font-size: 18px;
+        font-weight: 600;
+        color: rgba(33, 33, 33, 1);
 
+    }
+    .just{
+        font-family: "Montserrat";
+        font-size: 18px;
+        font-weight: 600;
+        color: rgba(33, 33, 33, 1);
+
+
+    }
+    .meneger{
+        font-family: "Montserrat";
+        font-size: 18px;
+        font-weight: 600;
+        color: rgba(33, 33, 33, 1);
+
+    }
+    .individ{
+        font-family: "Montserrat";
+        font-size: 18px;
+        font-weight: 600;
+        color: rgba(33, 33, 33, 1);
+    }
+    .nawa{
+        font-family: "Montserrat";
+        font-size: 18px;
+        font-weight: 600;
+        color: rgba(33, 33, 33, 1);
+    }
