@@ -107,7 +107,10 @@
 #color{
     background-color: rgba(242, 240, 238, 1);
     width: 1924px;
-    height: 435px;
+height: 435px;
+
+
+
     margin-top: -200px;
 }
 .opawkanikozi{
@@ -234,41 +237,73 @@
     margin-top: -150px;
 }
 .textflower{
-    margin-top: 550px;
+    margin-left: 50px;
+    margin-top: 600px;
+    margin-bottom: 70px;
     h2{
         font-family: "Cormorant";
         margin-left: 750px;
         font-size: 40px;
+        
     }
     h5{
         font-family: "Montserrat";  
         font-size: 20px;
         font-weight: 400;
         color: rgba(33, 33, 33, 1);
-        width: 450px;
+        width:510 px;
         margin-left: 750px;
+        
     }
     p{
         font-family: "Montserrat";  
         font-size: 20px;
         font-weight: 400;
         color: rgba(33, 33, 33, 1);
-        width: 450px;
+        width: 500px;
+        height: 155px;
         margin-left: 750px;
     }
+}
+.add{
+    font-family: "Montserrat";
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+
+color: rgba(33, 33, 33, 1);
+}
+
+.add2{
+    font-family: Montserrat;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+color: rgba(33, 33, 33, 1);
+
 }
 .catalog2{
     width: 280px;
     height: 76px;
     background:none;
-    border-color: rgba(33, 33, 33, 1);
-    border-style: ridge;
-    margin-left: 750px;
-    margin-top: 30px;
+    border: 3px solid  rgba(33, 33, 33, 1);
+    margin-left: 800px;
+    
     p{
          font-family: "Montserrat";
          font-size: 20px;
          color: rgba(33, 33, 33, 1);
          text-align: center;
     }
+}
+.back-color{
+    background-color: rgba(242, 240, 238, 1);
+    width: 1924px;
+height: 490px;
+top: 3773px;
+left: -4px;
+gap: 0px;
+opacity: 0px;
+margin-top: -270px;
+
 }
